@@ -24,7 +24,7 @@
             </nuxt-link>
           </div>
           <div class="my-2">
-               <nuxt-link to="/menu">
+               <nuxt-link to="/#">
             <v-btn x-large color="success" dark>กลับหน้าหลัก</v-btn>
              </nuxt-link>
           </div>
