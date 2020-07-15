@@ -21,7 +21,7 @@
        </v-form>
      </v-card-text>
      <v-card-actions>
-    <nuxt-link to="\register"><v-btn class="ma-2" tile color="#00695C" dark>REGISTER</v-btn></nuxt-link>
+    <nuxt-link to="register"><v-btn class="ma-2" tile color="#00695C" dark>REGISTER</v-btn></nuxt-link>
     <v-spacer></v-spacer>
    <v-btn class="ma-2" tile color="light-blue darken-3" dark>LOGIN</v-btn>
     </v-btn>
