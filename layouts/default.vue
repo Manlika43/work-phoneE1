@@ -6,9 +6,9 @@
             <v-spacer>          </v-spacer>
               <v-spacer>          </v-spacer>
           <nuxt-link to="/#">
-      <v-btn class="ma-2" color="orange darken-2" dark>
-        <v-icon dark left>mdi-arrow-left</v-icon>Back
-      </v-btn>
+        <span class="group pa-2">
+        <v-icon medium>home</v-icon>
+      </span>
       </nuxt-link>
         </v-card-title>
          <nuxt/>

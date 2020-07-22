@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div  class="text-center">
         กิจกรรมเข้าแถว
           <div class="my-2">
             <nuxt-link to="/menu">

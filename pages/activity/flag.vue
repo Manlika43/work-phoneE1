@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="text-center">
         กิจกรรมหน้าเสาธง
          <div class="my-2">
             <nuxt-link to="/menu">

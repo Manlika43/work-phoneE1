@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="text-center">
         กิจกรรมโฮมรูม
         
         <div class="my-2">
